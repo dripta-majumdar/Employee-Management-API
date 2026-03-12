@@ -1,15 +1,20 @@
 using EmployeeAPI.Services;
 using EmployeeAPI.Services.Interfaces;
+using EmployeeAPI.Logger;
 using Serilog;
 
-//Log.Logger = new LoggerConfiguration()
-//    .WriteTo.File("Logs/log.txt", rollingInterval: RollingInterval.Day)
-//    .CreateLogger();
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Information()
+    .MinimumLevel.Override("Microsoft", Serilog.Events.LogEventLevel.Warning)
+    .Enrich.FromLogContext()
+    .WriteTo.Console()
+    .WriteTo.File("Logs/log-.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
 
 var builder = WebApplication.CreateBuilder(args);
 
-////use Serilog
-//builder.Host.UseSerilog();
+// Use Serilog as ASP.NET Core logger
+builder.Host.UseSerilog();
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -17,6 +22,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<IAppLogger, AppLogger>();
 builder.Services.AddSingleton<IEmployeeServices, EmployeeServices>();
 var app = builder.Build();
 
@@ -32,4 +38,11 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+try
+{
+    app.Run();
+}
+finally
+{
+    Log.CloseAndFlush();
+}
