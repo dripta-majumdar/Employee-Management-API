@@ -23,7 +23,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IAppLogger, AppLogger>();
-builder.Services.AddSingleton<IEmployeeServices, EmployeeServices>();
+builder.Services.AddScoped<IEmployeeServices, EmployeeServices>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

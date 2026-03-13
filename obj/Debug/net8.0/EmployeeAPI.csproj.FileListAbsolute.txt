@@ -60,3 +60,4 @@ C:\Users\DRIPTA MAJUMDAR\OneDrive - EFKON INDIA Pvt. Ltd\Desktop\.net Learning\P
 C:\Users\DRIPTA MAJUMDAR\OneDrive - EFKON INDIA Pvt. Ltd\Desktop\.net Learning\Personal Project Learning\WebApplication1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Users\DRIPTA MAJUMDAR\OneDrive - EFKON INDIA Pvt. Ltd\Desktop\.net Learning\Personal Project Learning\WebApplication1\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\DRIPTA MAJUMDAR\OneDrive - EFKON INDIA Pvt. Ltd\Desktop\.net Learning\Personal Project Learning\WebApplication1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DRIPTA MAJUMDAR\OneDrive - EFKON INDIA Pvt. Ltd\Desktop\.net Learning\Personal Project Learning\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
