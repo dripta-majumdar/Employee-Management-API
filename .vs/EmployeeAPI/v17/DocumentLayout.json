@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\services\\interfaces\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:services\\interfaces\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\dto\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:dto\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\logger\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:logger\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\logger\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:logger\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\logger\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:logger\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\logger\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:logger\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\services\\interfaces\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:services\\interfaces\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\dto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\dto\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:dto\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\dto\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:dto\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|c:\\users\\dripta majumdar\\onedrive - efkon india pvt. ltd\\desktop\\.net learning\\personal project learning\\employee management api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F842867D-CA07-45D4-A1F7-D85FD47978B2}|EmployeeAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,11 +74,12 @@
               "RelativeToolTip": "Logger\\AppLogger.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:37:57.272Z"
+              "WhenOpened": "2026-03-12T13:37:57.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IAppLogger.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Logger\\IAppLogger.cs",
               "RelativeDocumentMoniker": "Logger\\IAppLogger.cs",
@@ -86,11 +87,12 @@
               "RelativeToolTip": "Logger\\IAppLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:36:51.341Z"
+              "WhenOpened": "2026-03-12T13:36:51.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -103,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EmployeeServices.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Services\\EmployeeServices.cs",
               "RelativeDocumentMoniker": "Services\\EmployeeServices.cs",
@@ -111,11 +113,12 @@
               "RelativeToolTip": "Services\\EmployeeServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T14:46:30.546Z"
+              "WhenOpened": "2026-03-04T14:46:30.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
@@ -127,19 +130,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "IEmployeeServices.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Services\\Interfaces\\IEmployeeServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IEmployeeServices.cs",
               "ToolTip": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Services\\Interfaces\\IEmployeeServices.cs",
               "RelativeToolTip": "Services\\Interfaces\\IEmployeeServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T14:45:50.706Z"
+              "WhenOpened": "2026-03-04T14:45:50.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EmployeeResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\DTO\\EmployeeResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\EmployeeResponseDTO.cs",
@@ -151,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "EmployeeCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\DTO\\EmployeeCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\EmployeeCreateDTO.cs",
@@ -159,23 +163,25 @@
               "RelativeToolTip": "DTO\\EmployeeCreateDTO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T14:44:12.77Z"
+              "WhenOpened": "2026-03-04T14:44:12.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T14:43:39.144Z"
+              "WhenOpened": "2026-03-04T14:43:39.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EmployeeUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\DTO\\EmployeeUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\EmployeeUpdateDTO.cs",
@@ -187,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmployeeAPI.csproj",
               "DocumentMoniker": "C:\\Users\\DRIPTA MAJUMDAR\\OneDrive - EFKON INDIA Pvt. Ltd\\Desktop\\.net Learning\\Personal Project Learning\\Employee Management API\\EmployeeAPI.csproj",
               "RelativeDocumentMoniker": "EmployeeAPI.csproj",
